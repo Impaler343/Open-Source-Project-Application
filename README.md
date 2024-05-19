@@ -1,4 +1,4 @@
-# Open-Source-Project-Application
+## Open-Source-Project-Application
 Application Questions for the Matplotlib Hatching Project  
 All activities should be performed on [my fork](https://github.com/Impaler343/matplotlib) and not on the official repository of Matplotlib.
 You can fork my fork to submit PRs for your tasks
