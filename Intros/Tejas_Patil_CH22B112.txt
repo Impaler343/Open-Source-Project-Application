@@ -1,0 +1,7 @@
+Name : Tejas Patil
+Roll Number : CH22B112
+Hobbies : Watching AOT and living up on the quote "give up on your dream and die"
+Programming experience : Worked as a manager in E-cell Web and Mobile Operation,
+                         Rated 1855 in Leetcode,proficient in Data Structure and algorithms,
+                         Semifinalist in LnT Createch 2024 Hackathon
+Favourite Language : cpp
