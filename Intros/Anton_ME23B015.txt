@@ -1,0 +1,46 @@
+Name: Anton Beny M S
+
+Roll No: ME23B015
+
+Hobbies: Watching Sports, Playing Video Games
+
+Programming experience: Worked with Python, Rust, C++, Java, Julia, Shell Scripting.
+    Libraries that I have worked with include numpy, pandas, matplotlib, scikit-learn, pytorch.
+
+Favorite Language: Rust
+
+1. Ever since lockdown, I have been greatly interested in all things related to computers... 
+   such as Operating Systems, Video Games, and of course, Programming. 
+   I enjoy learning new things. Even this application was a great learning experience 
+   as I learnt a lot more about Python, and also about the general structure of a 
+   large scale open-source project.
+
+2. I really wanted to contribute to open-source projects, however I had no idea how to start.
+   But, I beleive that this project will be a very helpful start for me so that I would be able 
+   to use my skills to contribute to open-source projects. Trying the Good First Issue was a 
+   great experience for me, and I am sure that I will be able to learn a lot more by working 
+   on this project.
+
+   This year, I am part of the Programming Club Team as a Coordinator and I am sure that I 
+   will be able to manage both these responsibilities effectively.
+
+3. I am pretty comfortable with Python, Rust, and C++. I have also worked with Git and GitHub 
+   for a while now. I have built a couple of small induvidual projects in Python:
+
+    - r3geX-fsm: A simple regex engine using Finite State Machines. 
+        {https://github.com/r3kste/r3geX-fsm}
+    - rrt: A simple implementation of Rapidly-exploring Random Trees for path planning. I used 
+        matplotlib in this project for plotting the environments and the path. {https://github.com/r3kste/rrt}
+
+    Both of these helped me to learn about OOP in Python. However, I have not worked on a large 
+    scale collaborative project like matplotlib, for which I am sure that this project will be a great start.
+
+    Apart from this, I also do competitive programming using Rust and C++. I have also participated 
+    in a couple of hackathons hosted by AI Club.
+
+4. A few interesting things about myself:
+
+    - I know around three times more programming languages than I know spoken languages.
+    - I learnt linux, git, vim, latex when I was in high school, so that I could flex on my friends.
+    - My birthdate (when represented in dd/mm/yy) is an arithmetic progression.
+    - Me (and both my roommates) almost missed an EndSem exam (we woke up at 8:52, the exam was at 9:00)
